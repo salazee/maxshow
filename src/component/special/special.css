@@ -1,0 +1,30 @@
+.head{
+    background-color: #0000;
+ 
+ }
+ .first{
+     margin: 19px 0px;
+     padding: 5px;
+ 
+ }
+ .gallery{
+     display: flex;
+ flex-direction: row;
+     gap: 10px;
+     height: 330px;
+     margin: 8px 0px;
+ }
+ .last{
+     display: flex;
+     flex-direction: column;
+     gap: 10px;
+     justify-content: center;
+     align-items: center;
+     height: 370px;
+     padding: 7px;
+ 
+ }
+ .each{
+     height: 100%;
+     width: 20%;
+ }

@@ -1,0 +1,21 @@
+.get{
+    
+    top: 15px;
+    right: 30px;
+    border-radius: 12px;
+    background-color: rgb(215, 54, 116);
+    color: #ffff;
+    padding:  5px 10px;
+    margin:  7px 0;
+    font-size: 10px;
+}
+
+.hero-container{
+    display: flex;
+    justify-content: space-between;
+    height: 90vh;
+}
+.hero-sub2{
+    width: 100%;
+    height: 100%;
+}
