@@ -1,6 +1,35 @@
 .why-container{
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-around;
-    gap:20px
+    justify-content:center;
+    align-items: center;
+    gap:20px;
+    padding: 70px;
+   }
+
+.whysub1, .whysub2{
+    background-color: rgb(3, 17, 36);
+width: 70vh;
+height: 40vh;
+border-radius: 20px;
+}
+.whyimage{
+  margin: 15px 0px 10px 160px;
+    height: 30%;
+    width: 30%;
+     
+}
+.why3,h3,p{
+    text-align: center;
+    justify-content: center;
+}
+.why{
+    background-color: rgb(227, 231, 241);
+    color: black;
+    border-radius: 15px;
+    margin: 10px 0px 10px 180px;
+    padding: 8px 10px;
+    font-size: 15px;
+     
 }

@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    margin: 30px;
+   
+}
+.gadget{
+    width: 30vh;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    padding: 25px;
+    margin: 10px;
+    background-color: rgb(3, 17, 36);
+    border-radius:10px ;
+    
+}
+.device{
+    background-color: rgb(3, 17, 36);
+}
+.devcontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+}
+.dev{
+    border-radius: 10px;
+    width: 20vh;
+    height: 5vh;
+    color: black;
+    background-color: white;
+    padding: 10px;
+    
+}

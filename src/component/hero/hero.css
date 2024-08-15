@@ -13,9 +13,36 @@
 .hero-container{
     display: flex;
     justify-content: space-between;
-    height: 90vh;
+    gap: 45vh;
+    height: 80vh;
+    background-color: rgb(3, 17, 36);
+    margin: 0px;
 }
 .hero-sub2{
-    width: 100%;
-    height: 100%;
+    width: 60%;
+    height: 850%;
+    
+    justify-content: center;
+    align-items: center ;
+    padding-top: 50px;
+    
+}
+.hero-sub1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   align-items: center;
+  
+   max-width: 540px;
+   margin: 30px;
+}
+.heroh1{
+    font-size: 54px;
+    text-align: center;
+/* }
+.heroh2{
+    background-color: rgba(3, 24, 62, 0.122);
+}
+.herop{
+    background-color: rgba(3, 24, 62, 0.122); */
 }

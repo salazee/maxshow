@@ -1,3 +1,9 @@
+My tutor Yuskhomith says this is the  way to share repo (https://github.com/salazee/maxshow)
+
+deployment platform
+-lotion
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
